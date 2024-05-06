@@ -1,0 +1,26 @@
+{
+  "name": "7-02_dependencies",
+  "version": "1.0.0",
+  "description": "hw_settings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TinitaQA/7-02_dependencies.git"
+  },
+  "author": "Kris Mishchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinitaQA/7-02_dependencies/issues"
+  },
+  "homepage": "https://github.com/TinitaQA/7-02_dependencies#readme",
+  "devDependencies": {
+    "eslint": "^9.2.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.2.5"
+  }
+}
